@@ -3,12 +3,6 @@
 ###
 
 <p align="center">Mi nombre es Felipe Palazzi, actualmente estudiante de Ingeniería en Sistemas de Información.</p>
-<p align="center">🎧<i>Que nunca falte la musica a la hora de programar</i>🎵</p>
-<div align="center">
-  <a href="https://open.spotify.com/user/q7wba7pd9qy45b1dr3ady8pvi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=q7wba7pd9qy45b1dr3ady8pvi&count=4&unique=true&width=700" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
@@ -16,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Me gusta aprender lenguajes nuevos<br>📚 Cursando 4to año en UTN FRCU<i> (Concepción del Uruguay - Argentina)</i><br><b>🎯 Metas:</b> Finalizar mi primera app Expenzzi</p>
+<p align="center">✨ Me gusta aprender lenguajes nuevos<br>📚 Cursando 4to año en UTN FRCU<i> (Concepción del Uruguay - Argentina)</i><br></p>
 
 ###
 
